@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\14-MultiplosDe2y3 1\14-MultiplosDe2y3 1\bin\Debug\14-MultiplosDe2y3 1.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\14-MultiplosDe2y3 1\14-MultiplosDe2y3 1\bin\Debug\14-MultiplosDe2y3 1.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\14-MultiplosDe2y3 1\14-MultiplosDe2y3 1\obj\Debug\14-MultiplosDe2y3 1.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\14-MultiplosDe2y3 1\14-MultiplosDe2y3 1\obj\Debug\14-MultiplosDe2y3 1.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\14-MultiplosDe2y3 1\14-MultiplosDe2y3 1\obj\Debug\14-MultiplosDe2y3 1.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\14-MultiplosDe2y3 1\14-MultiplosDe2y3 1\obj\Debug\14-MultiplosDe2y3 1.pdb
